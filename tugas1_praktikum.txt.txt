@@ -1,0 +1,23 @@
+1. Document Root adalah lokasi folder dimana file website dari sebuah situs disimpan.Dalam konteks:
+- Sistem Manajemen Dokumen: Dokumen utama yang mengatur dokumen-dokumen terkait lainnya.
+- Pengembangan Web: File HTML utama (seperti index.html) yang menjadi halaman awal situs web.
+- Sistem File: Direktori utama (/) dalam sistem file, di mana semua file dan direktori lainnya berada di bawahnya.
+2. Ya, pada Apache Web Server yang diinstal melalui XAMPP, dokumen root secara default terletak di C:\xampp\htdocs.
+3.- git init: Menginisialisasi repositori Git baru di direktori saat ini. Ini membuat subdirektori .git yang menyimpan semua informasi versi.
+  -clone: Mengunduh salinan repositori Git yang sudah ada dari server (misalnya, GitHub) ke komputer lokal. Ini menciptakan salinan lengkap dari 	repositori, termasuk semua riwayat versi.
+  -remote: Mengelola koneksi ke repositori jarak jauh. Perintah ini digunakan untuk menambahkan, menghapus, atau melihat repositori remote yang terhubung.
+  -add: Menambahkan perubahan file ke staging area, menyiapkan file tersebut untuk di-commit. Ini memberi tahu Git bahwa Anda ingin menyertakan perubahan 	tersebut dalam commit berikutnya.
+  -commit: Menyimpan snapshot dari perubahan yang telah ditambahkan ke staging area. Setiap commit memiliki pesan yang menjelaskan perubahan yang dilakukan.
+  -push: Mengirimkan commit yang telah dibuat di repositori lokal ke repositori jarak jauh. Ini memperbarui repositori remote dengan perubahan terbaru dari 	local.
+  -checkout: Berpindah antara cabang (branch) atau mengembalikan file ke keadaan tertentu.
+4. GitHub lebih fokus pada kolaborasi dan proyek open-source, sementara GitLab menawarkan solusi yang lebih menyeluruh untuk pengembangan perangkat lunak dan DevOps. 
+5. Variabel User:Ditentukan untuk pengguna tertentu dan Hanya berlaku untuk sesi pengguna tersebut.
+   Variabel System:Ditentukan untuk seluruh system dan Berlaku untuk semua pengguna.
+6. - Keduanya dapat berisi nilai yang tidak berubah selama program atau sesi berjalan.
+   - Digunakan untuk menyimpan informasi yang dapat diakses oleh program atau pengguna.
+   - Keduanya dapat diakses oleh berbagai bagian dari program atau sistem. Variabel system dapat diakses oleh semua pengguna dan aplikasi di sistem,
+     sedangkan constant dapat diakses di seluruh bagian kode di mana ia didefinisikan.
+
+
+
+
