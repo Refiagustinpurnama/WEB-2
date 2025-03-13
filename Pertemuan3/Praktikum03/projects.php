@@ -22,9 +22,8 @@
                                 <div class="card-body p-0">
                                     <div class="d-flex align-items-center">
                                         <div class="p-5">
-                                            <h2 class="fw-bolder">Project DDP</h2>
-                                            <p>Project membuat aplikasi ATM Virtual yang berfungsi untuk memudahkan pengguna yang ingin mengakses ATM miliknya secara online menggunakan web digital tanpa harus mengunjungi Bank.
-                                            Selain itu fungsinya juga membantu pengguna untuk menabung secara otomatis atau online.</p>
+                                            <h2 class="fw-bolder">Project Pemweb Semester 1 </h2>
+                                            <p>Website Youone Cafe merupakan sebuah platform digital yang dibuat oleh kita khusus untuk mempromosikan dan menyajikan informasi mengenai cafe kita. Melalui website ini pengunjung dapat mengetahui informasi mengenai menu kopi, makanan, lokasi, jam operasional, serta keunikan suasana dan konsep kedai kopi.</p>
                                         </div>
                                         <img class="img-fluid" src="assets/project1.jpg" alt="..." />
                                     </div>
@@ -35,8 +34,8 @@
                                 <div class="card-body p-0">
                                     <div class="d-flex align-items-center">
                                         <div class="p-5">
-                                            <h2 class="fw-bolder">Project Pemweb Semester 1</h2>
-                                            <p> Website merupakan platform yang dapat membantu Youone Cafe dalam membangun citra dan branding yang kuat. Dengan desain yang menarik, Youone Cafe dapat menampilkan identitas uniknya, seperti gaya desain, menu khas, atau nilai-nilai perusahaan.</p>
+                                            <h2 class="fw-bolder">Project DDP</h2>
+                                            <p>ATM Virtual adalah Layanan digital yang memungkinkan pengguna untuk melakukan transaksi keuangan yang beroperasi secara digital. Sehingga pengguna dapat mengakses ATM ini dimana saja dan kapan saja melalui situs web.</p>
                                         </div>
                                         <img class="img-fluid" src="assets/project2.jpg" alt="..." />
                                     </div>

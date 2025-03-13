@@ -48,13 +48,11 @@
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-primary fw-bolder mb-2"> Juni 2023 - September 2024</div>
+                                                <div class="text-primary fw-bolder mb-2">Juni 2023 - September 2024</div>
                                                 <div class="small fw-bolder">Staff Admin</div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-8"><div>Membuat laporan harian pasien dan Keuangan klinik. 
-Menginput data passien rawat inap dan penjualan klinik.
-Membuat konten setiap hari di Instagram dan Tiktok.</div></div>
+                                        <div class="col-lg-8"><div>Membuat laporan harian pasien dan Keuangan klinik. Menginput data passien rawat inap dan penjualan klinik. Membuat konten setiap hari di Instagram dan Tiktok.</div></div>
                                     </div>
                                 </div>
                             </div>
@@ -68,16 +66,16 @@ Membuat konten setiap hari di Instagram dan Tiktok.</div></div>
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-secondary fw-bolder mb-2">2020 - 2023</div>
+                                                <div class="text-secondary fw-bolder mb-2">2020-2023</div>
                                                 <div class="mb-2">
                                                     <div class="small fw-bolder">SMK Negeri 1 Cariu</div>
-                                                    <div class="small text-muted"> Multimedia </div>
+                                                    <div class="small text-muted">Jurusan Multimedia</div>
                                                 </div>
                                                 <div class="fst-italic">
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-8"><div>Jurusan Multimedia adalah jurusan yang mempelajari penggunaan teknologi untuk memproduksi dan mendistribusikan konten multimedia. Jurusan ini mempelajari desain grafis, Animasi 2D dan 3D, Produser video, Animator, dan pemasaran digital.</div></div>
+                                        <div class="col-lg-8"><div>aya adalah lulusan SMK Jurusan Multimedia yang memiliki minat bekerja dibidang Editing, Administrasi, dan Publishing. Lulus dengan nilai yang baik. Memiliki pengalaman PKL sebagai staff publishing di sebuah tempat penjualan Retail. Hal tersebut juga bisa mengasah keterampilan seperti Komunikasi, Bisnis, Administrasi dan Editor Video maupun Foto.</div></div>
                                     </div>
                                 </div>
                             </div>
@@ -87,16 +85,17 @@ Membuat konten setiap hari di Instagram dan Tiktok.</div></div>
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-secondary fw-bolder mb-2">2024 - sekarang</div>
+                                                <div class="text-secondary fw-bolder mb-2">2024 - saat ini</div>
                                                 <div class="mb-2">
                                                     <div class="small fw-bolder">Sekolah Tinggi Teknologi Terpadu Nurul Fikri</div>
-                                                    <div class="small text-muted">Sistem Informasi</div>
+                                                    <div class="small text-muted">Prodi Sistem Informasi</div>
                                                 </div>
                                                 <div class="fst-italic">
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-8"><div>Jurusan Sistem Informasi adalah jurusan yang menggabungkan ilmu komputer dengan manajemen dan bisnis. Jurusan ini mempelajari cara mengidentifikasi kebutuhan perusahaan, merancang sistem, dan mengolah data perusahaan.</div></div>
+                                        <div class="col-lg-8"><div>Program Studi (Prodi) Sistem Informasi adalah bidang studi yang menggabungkan ilmu komputer, manajemen, dan bisnis. Mahasiswa akan belajar merancang sistem yang sesuai dengan kebutuhan perusahaan. 
+                                        </div></div>
                                     </div>
                                 </div>
                             </div>
