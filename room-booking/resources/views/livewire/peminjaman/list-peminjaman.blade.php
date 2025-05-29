@@ -1,0 +1,1 @@
+// Isi file list-peminjaman.blade.php diletakkan di sini sesuai petunjuk praktikum.

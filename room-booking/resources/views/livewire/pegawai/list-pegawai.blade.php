@@ -1,0 +1,1 @@
+// Isi file list-pegawai.blade.php diletakkan di sini sesuai petunjuk praktikum.
